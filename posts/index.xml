@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Raffles Vision Blog</title>
-        <link>/</link>
-        <description>This is My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 27 Oct 2021 22:30:28 -0400</lastBuildDate>
-            <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+        <title>All Posts - Raffles Vision Blog</title>
+        <link>/posts/</link>
+        <description>All Posts | Raffles Vision Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 27 Oct 2021 22:30:28 -0400</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Fast Fourier Transform (FFT) Basics in Python</title>
     <link>/2/</link>
     <pubDate>Wed, 27 Oct 2021 22:30:28 -0400</pubDate>

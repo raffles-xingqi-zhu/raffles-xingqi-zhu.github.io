@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Blog - Category - Raffles Vision Blog</title>
+        <link>/categories/blog/</link>
+        <description>Blog - Category - Raffles Vision Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 26 Oct 2021 23:20:07 -0400</lastBuildDate><atom:link href="/categories/blog/" rel="self" type="application/rss+xml" /><item>
+    <title>New Website and First Post</title>
+    <link>/1/</link>
+    <pubDate>Tue, 26 Oct 2021 23:20:07 -0400</pubDate>
+    <author>Author</author>
+    <guid>/1/</guid>
+    <description><![CDATA[Today I have created my personal website using Hugo. This is the first post. In the future, I look forward to share with the world the projects I will be working on during my graduate studies as well as leisure time. Stay tuned!]]></description>
+</item></channel>
+</rss>
