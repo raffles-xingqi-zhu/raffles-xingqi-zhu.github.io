@@ -3,7 +3,14 @@
         <title>All Posts - My website</title>
         <link>http://localhost:1313/posts/</link>
         <description>All Posts | My website</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 22:22:26 -0700</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 22:40:10 -0700</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Secondpost</title>
+    <link>http://localhost:1313/posts/secondpost/</link>
+    <pubDate>Tue, 01 Oct 2024 22:40:10 -0700</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/posts/secondpost/</guid>
+    <description><![CDATA[<p>This is something else I&rsquo;m thinking about</p>]]></description>
+</item><item>
     <title>Mypost</title>
     <link>http://localhost:1313/posts/mypost/</link>
     <pubDate>Tue, 01 Oct 2024 22:22:26 -0700</pubDate><author>
