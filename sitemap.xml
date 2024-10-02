@@ -2,14 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/categories/</loc><lastmod>2021-10-27T22:30:28-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/2/</loc><lastmod>2021-10-27T22:30:28-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/tags/image-processing/</loc><lastmod>2021-10-27T22:30:28-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/posts/</loc><lastmod>2021-10-27T22:30:28-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/</loc><lastmod>2021-10-27T22:30:28-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/tags/</loc><lastmod>2021-10-27T22:30:28-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/categories/tutorial/</loc><lastmod>2021-10-27T22:30:28-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/about/</loc><lastmod>2021-10-27T13:25:28-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/categories/blog/</loc><lastmod>2021-10-26T23:20:07-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/1/</loc><lastmod>2021-10-26T23:20:07-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>/tags/personal/</loc><lastmod>2021-10-26T23:20:07-04:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>http://localhost:1313/</loc><lastmod>2024-10-01T22:22:26-07:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/mypost/</loc><lastmod>2024-10-01T22:22:26-07:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2024-10-01T22:22:26-07:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/</loc></url><url>
+            <loc>http://localhost:1313/tags/</loc></url></urlset>
