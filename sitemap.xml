@@ -1,34 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://raffles-xingqi-zhu.github.io/en-gb/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://raffles-xingqi-zhu.github.io/de-de/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://raffles-xingqi-zhu.github.io/fr-fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://raffles-xingqi-zhu.github.io/pt-br/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://raffles-xingqi-zhu.github.io/ru-ru/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://raffles-xingqi-zhu.github.io/it/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://raffles-xingqi-zhu.github.io/posts/</loc>
+    <lastmod>2024-08-26T16:50:12-08:00</lastmod>
+  </url><url>
+    <loc>https://raffles-xingqi-zhu.github.io/</loc>
+    <lastmod>2024-08-26T16:50:12-08:00</lastmod>
+  </url><url>
+    <loc>https://raffles-xingqi-zhu.github.io/posts/newjob/</loc>
+    <lastmod>2024-08-26T16:50:12-08:00</lastmod>
+  </url><url>
+    <loc>https://raffles-xingqi-zhu.github.io/pages/aboutme/</loc>
+  </url><url>
+    <loc>https://raffles-xingqi-zhu.github.io/pages/projects/</loc>
+  </url><url>
+    <loc>https://raffles-xingqi-zhu.github.io/categories/</loc>
+  </url><url>
+    <loc>https://raffles-xingqi-zhu.github.io/pages/</loc>
+  </url><url>
+    <loc>https://raffles-xingqi-zhu.github.io/tags/</loc>
+  </url>
+</urlset>

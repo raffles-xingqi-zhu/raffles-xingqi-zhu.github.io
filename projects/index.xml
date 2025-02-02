@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Raffles Xingqi Zhu</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Raffles Xingqi Zhu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 01 Feb 2025 15:28:52 -0800</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/projects/projects/</link>
+      <pubDate>Sat, 01 Feb 2025 15:28:52 -0800</pubDate>
+      
+      <guid>http://localhost:1313/projects/projects/</guid>
+      
+      <description>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
+&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;
+&lt;h3 id=&#34;title-of-publication-1httpsexamplecompublication1&#34;&gt;&lt;a href=&#34;https://example.com/publication1&#34;&gt;Title of Publication 1&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Author A, Author B, Author C&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Journal:&lt;/strong&gt; Journal Name&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Brief description of the publication.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;title-of-publication-2httpsexamplecompublication2&#34;&gt;&lt;a href=&#34;https://example.com/publication2&#34;&gt;Title of Publication 2&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Author D, Author E&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Journal:&lt;/strong&gt; Journal Name&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Brief description of the publication.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;
+&lt;h3 id=&#34;title-of-publication-3httpsexamplecompublication3&#34;&gt;&lt;a href=&#34;https://example.com/publication3&#34;&gt;Title of Publication 3&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Author F, Author G, Author H&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Journal:&lt;/strong&gt; Journal Name&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Brief description of the publication.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;title-of-publication-4httpsexamplecompublication4&#34;&gt;&lt;a href=&#34;https://example.com/publication4&#34;&gt;Title of Publication 4&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Author I, Author J, Author K&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Journal:&lt;/strong&gt; Journal Name&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Brief description of the publication.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;
+&lt;h3 id=&#34;title-of-publication-5httpsexamplecompublication5&#34;&gt;&lt;a href=&#34;https://example.com/publication5&#34;&gt;Title of Publication 5&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Author L, Author M, Author N&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Journal:&lt;/strong&gt; Journal Name&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Brief description of the publication.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;title-of-publication-6httpsexamplecompublication6&#34;&gt;&lt;a href=&#34;https://example.com/publication6&#34;&gt;Title of Publication 6&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Author O, Author P, Author Q&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Journal:&lt;/strong&gt; Journal Name&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Brief description of the publication.&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
